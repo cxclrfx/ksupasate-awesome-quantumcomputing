@@ -90,6 +90,9 @@ Entries are alphabetical inside each section. Prefer concise descriptions (≤2 
 - [Mitiq](https://github.com/unitaryfund/mitiq) – Open-source toolkit for error mitigation techniques.
 - [QURI Parts](https://github.com/QunaSys/quri-parts) – Modular Python components for variational algorithm pipelines.
 
+**Evidence auditing & verification**
+- [QEC Evidence Auditor — Standard Mathematical V1](https://github.com/cxclrfx/QEC-Evidence-Auditor) – Technical showcase of proprietary offline Auditor and Verifier programs for mathematical QEC artifacts, with five validation modes.
+
 ## Hardware Access & Cloud Platforms
 
 - [Amazon Braket](https://aws.amazon.com/braket/) – Managed access to multiple trapped-ion, superconducting, and neutral-atom providers plus simulators.
